@@ -6,8 +6,13 @@ Server :-
     LANGUANGE: Node.js
     DATABASE: MongoDB
     Hosting Server: Google Cloud
+    Server Repo : https://github.com/hotshotmentors/Yengg-App-Server.git
+    
+    
 Mobile:-
     Android
+    
+    Android Repo: https://github.com/hotshotmentors/Yengg-App-Android
     
     Official website: 
     Facebook:
