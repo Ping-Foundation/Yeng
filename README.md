@@ -1,5 +1,7 @@
 # Yeng-App
-Yengg(Young engineers) app is designed specially for KTU community. All students/professionals can contribute this project.
+Yengg(Young engineers) app is designed specially for KTU University students in Kerala,India. All students/professionals can contribute this project.
+
+Our vision to create an university mobile platform for all Universities. 
 
 Server :-
 
@@ -20,4 +22,8 @@ Mobile:-
     G+:
     Mail:
   
+Team members:
 
+Project head: Nikhil Kilivayil(nikhilkilivayil@gmail.com)
+Android Lead: Mohammed Faizal (faizalxg@gmail.com)
+Node.js Head: Gokul PG ()
