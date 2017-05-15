@@ -5,25 +5,26 @@ Our vision to create an university mobile platform for all Universities.
 
 Server :-
 
-    LANGUANGE: Node.js
+    LANGUANGE: Node.js Express
     DATABASE: MongoDB
-    Hosting Server: Google Cloud
-    Server Repo : https://github.com/hotshotmentors/Yeng-App-Server.git
+    Hosting Server: Microsoft Azure
+    Server Repo : https://github.com/Yeng-Community/Yeng-App-Server.git
     
     
 Mobile:-
     Android
     
-    Android Repo: https://github.com/hotshotmentors/Yeng-App-Android
+    Android Repo: https://github.com/Yeng-Community/Yeng-App-Android.git
     
-    Official website: 
-    Facebook:
-    Twitter:
-    G+:
-    Mail:
+
+  Official website: 
+  Facebook:
+  Twitter:
+  G+:
+  Mail:
   
-Team members:
+ Contact Details:
 
 Project head: Nikhil Kilivayil(nikhilkilivayil@gmail.com)
-Android Lead: Mohammed Faizal (faizalxg@gmail.com)
-Node.js Head: Gokul PG ()
+Mob: +91 9995471353
+
