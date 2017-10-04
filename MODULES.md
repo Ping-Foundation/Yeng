@@ -1,0 +1,31 @@
+# Modules
+    - Syllabus
+    - News & Updates
+    - Academic calendar
+    - University Rules & Regulations
+    - OTP Login
+    - Exam Results
+    - Text chat
+    - Audio Call
+    - Video Call
+    - Study material
+    - Discussions
+    - Groups
+    - Events
+    - Project discussions & support
+    - Seminar discussions
+    - Previouse question paper
+    - About university
+    - Join with us
+    - About us
+    - Live Sessions
+    - Old material sell
+    - Parents Interaction
+    - Public users interaction
+    - College activities
+    - Class activities
+    - Entertainment activities
+    - Online challenges.
+    - About App
+    - CA Meetups
+    - etc.
