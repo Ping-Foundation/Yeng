@@ -21,7 +21,7 @@ Our vision to create an university mobile platform for all Universities.
 # Contact Details:
 
 
-  Official website: https://www.yeng.in
+  Official website: http://www.yeng.in
   Facebook: https://www.facebook.com/yengapp/
   Mail: info@yeng.in
  
