@@ -26,5 +26,5 @@ Our vision to create an university mobile platform for all Universities.
   Mail: info@yeng.in
  
   Project head: Nikhil Kilivayil(nikhilkilivayil@gmail.com)
-  Mob: +91 9995471353
+  
 
