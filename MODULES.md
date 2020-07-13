@@ -14,7 +14,7 @@
     - Events
     - Project discussions & support
     - Seminar discussions
-    - Previouse question paper
+    - Previous question paper
     - About university
     - Join with us
     - About us
