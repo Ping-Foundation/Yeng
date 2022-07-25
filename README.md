@@ -3,7 +3,7 @@ Yeng(Young engineers) app is designed specially for KTU University students in K
 
 Our vision to create an university mobile platform for all Universities. 
 
-# Server :-
+# Server🖥️ :-
 
     LANGUANGE: Node.js Express
     DATABASE: MongoDB
@@ -11,14 +11,14 @@ Our vision to create an university mobile platform for all Universities.
     Server Repo : https://github.com/Crazy-Amigos/Yeng-App-Server.git
     
     
-# Mobile:-
+# Mobile📱:-
     Android
     Android Repo: https://github.com/Crazy-Amigos/Yeng-App-Android.git
     
 
 
 
-# Contact Details:
+# Contact Details🌐:
 
 
   Official website: http://www.yeng.in
